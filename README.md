@@ -29,5 +29,5 @@ O(2log(N) + N)
 ```
 tedy
 ```
-O(log(N))
+O(log(N) + N)
 ```
